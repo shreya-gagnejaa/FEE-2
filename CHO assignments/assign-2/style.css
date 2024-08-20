@@ -1,0 +1,30 @@
+form {
+    /* margin: auto; */
+    /* width: min(600px, 100%); */
+    padding: 20px;
+    /* border: 1px solid #ddd; */
+    /* border-radius: 10px; */
+    background-image: url('bgg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: large;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    border: 2px;
+    background-color: rgba(245, 245, 220, 0.55);
+    border-radius: 20px;
+    padding: 20px;
+    margin-inline: 430px;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+}
